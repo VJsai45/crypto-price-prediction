@@ -15,10 +15,10 @@ import time
 from tqdm import tqdm
 
 
-consumer_key = 'x0peUiFDesINygzpbApJbKnQl'
-consumer_secret = 'AAR3yI6va9X9b0l04x3NC5ygsaSTHUm6J5nEZExHXcnzvGDCnG'
-access_token = '162618833-15zdk4re05fq6demG9ItbjFVtRhaoNaDZy78At3w'
-access_token_secret = 'BPfsLYUAup4SQx9urpno0nAXL9yc1j3GssDfSohz9aJyc'
+consumer_key = 'XXXX'
+consumer_secret = 'XXXX'
+access_token = 'XXXX'
+access_token_secret = 'XXXX'
 
 auth = tw.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
